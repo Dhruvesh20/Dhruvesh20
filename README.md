@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruvesh Bhalekar
 
-<!--
-**Dhruvesh20/Dhruvesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing my B.Tech in Computer Engineering.  
+💻 I completed my Diploma in Computer Science and Engineering.  
+🚀 I’m passionate about exploring new technologies and building practical solutions.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a tech enthusiast who enjoys learning and experimenting with different tools, programming languages, and frameworks.  
+My interests include software development, computer networks, and software testing.  
+I strongly believe in continuous learning and love applying my skills to real-world projects.
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, Java, C, C++, C#, VB.NET  
+- **Tools & Platforms:** GitHub, Firebase, Ubuntu, Oracle Database  
+- **Testing Tools:** Selenium, Appium, .NET Framework  
+- **Concepts:** Data Structures, Algorithms, SQL, Software Testing
+
+## 📈 Currently Working On
+
+- Expanding my knowledge in backend development  
+- Exploring automation testing tools  
+- Building mini-projects to sharpen my programming skills
+
+## 📫 How to Reach Me
+
+- LinkedIn: www.linkedin.com/in/dhruvesh-bhalekar  
+- Email: www.linkedin.com/in/dhruvesh-bhalekar
+
+---
+
+Thanks for visiting my profile! Let's connect and collaborate on interesting tech projects. 🚀
