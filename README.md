@@ -40,10 +40,11 @@ I strongly believe in continuous learning and love applying my skills to real-wo
 
 ## 📬 Reach Me At
 
+**Gmail:** bhalekardhruvesh2006@gmail.com
+
+## 🌐 Connect with me at
+
 <p align="left">
-  <a href="mailto:bhalekardhruvesh2006@gmail.com" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Gmail" />
-  </a>
   <a href="https://linkedin.com/in/dhruvesh-bhalekar" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
