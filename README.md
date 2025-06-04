@@ -23,10 +23,16 @@ I strongly believe in continuous learning and love applying my skills to real-wo
 - Exploring automation testing tools  
 - Building mini-projects to sharpen my programming skills
 
-## 📫 How to Reach Me
+## 📬 Reach Me At
 
-- LinkedIn: www.linkedin.com/in/dhruvesh-bhalekar  
-- Email: www.linkedin.com/in/dhruvesh-bhalekar
+<p>
+  <a href="https://www.linkedin.com/in/dhruvesh-bhalekar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruvesh%20Bhalekar-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
